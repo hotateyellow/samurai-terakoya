@@ -1,0 +1,19 @@
+.DS_Store
+.Trash/
+.cups/
+.ssh/
+.vscode/
+.zsh_history
+.zsh_sessions/
+Applications/
+Creative Cloud Files/
+Desktop/
+Documents/
+Downloads/
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+
+
